@@ -9,8 +9,7 @@ Proyectos y Laboratorios Académicos (UTP) en el entorno de programación. Java 
 Repositorio que reúne mi trabajo práctico como estudiante de la **Licenciatura en Ciberseguridad** de la **Universidad Tecnológica de Panamá (UTP)**, Facultad de Ingeniería de Sistemas Computacionales. Incluye proyectos completos y laboratorios que muestran mi progreso en lógica de programación, programación orientada a objetos (POO) y estructuras de datos.
 
 ---
-## Objetivo de aprendizaje: 
-Evidenciar la progresión técnica desde los fundamentos de programación estructurada hasta el diseño orientado a objetos en Java y la gestión manual de memoria y estructuras de datos en C/C++, aplicando buenas prácticas de validación y control de flujo en cada solución.
+## Objetivo de aprendizaje: Evidenciar la progresión técnica desde los fundamentos de programación estructurada hasta el diseño orientado a objetos en Java y la gestión manual de memoria y estructuras de datos en C/C++, aplicando buenas prácticas de validación y control de flujo en cada solución.
 ---
 
 ## Proyectos
